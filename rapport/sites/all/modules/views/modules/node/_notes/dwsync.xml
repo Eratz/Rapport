@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_dates_various.inc" server="crdp.entre-soi.info" local="130136915436653245" remote="130136955000000000" />
+<file name="views_handler_argument_node_language.inc" server="crdp.entre-soi.info" local="130136915436693288" remote="130136955000000000" />
+<file name="views_handler_argument_node_nid.inc" server="crdp.entre-soi.info" local="130136915436723294" remote="130136955000000000" />
+<file name="views_handler_argument_node_type.inc" server="crdp.entre-soi.info" local="130136915436750984" remote="130136955000000000" />
+<file name="views_handler_argument_node_uid_revision.inc" server="crdp.entre-soi.info" local="130136915436781002" remote="130136955000000000" />
+<file name="views_handler_argument_node_vid.inc" server="crdp.entre-soi.info" local="130136915436811024" remote="130136955000000000" />
+<file name="views_handler_field_history_user_timestamp.inc" server="crdp.entre-soi.info" local="130136915436831021" remote="130136955000000000" />
+<file name="views_handler_field_node.inc" server="crdp.entre-soi.info" local="130136915436871073" remote="130136955000000000" />
+<file name="views_handler_field_node_link.inc" server="crdp.entre-soi.info" local="130136915436901082" remote="130136955000000000" />
+<file name="views_handler_field_node_link_delete.inc" server="crdp.entre-soi.info" local="130136915436931100" remote="130136955000000000" />
+<file name="views_handler_field_node_link_edit.inc" server="crdp.entre-soi.info" local="130136915436961123" remote="130136955000000000" />
+<file name="views_handler_field_node_path.inc" server="crdp.entre-soi.info" local="130136915436989043" remote="130136955000000000" />
+<file name="views_handler_field_node_revision.inc" server="crdp.entre-soi.info" local="130136915437019061" remote="130136955000000000" />
+<file name="views_handler_field_node_revision_link.inc" server="crdp.entre-soi.info" local="130136915437069088" remote="130136955000000000" />
+<file name="views_handler_field_node_revision_link_delete.inc" server="crdp.entre-soi.info" local="130136915437229902" remote="130136955000000000" />
+<file name="views_handler_field_node_revision_link_revert.inc" server="crdp.entre-soi.info" local="130136915437264661" remote="130136955000000000" />
+<file name="views_handler_field_node_type.inc" server="crdp.entre-soi.info" local="130136915437294683" remote="130136955000000000" />
+<file name="views_handler_filter_history_user_timestamp.inc" server="crdp.entre-soi.info" local="130136915437324689" remote="130136955000000000" />
+<file name="views_handler_filter_node_access.inc" server="crdp.entre-soi.info" local="130136915437354724" remote="130136955000000000" />
+<file name="views_handler_filter_node_status.inc" server="crdp.entre-soi.info" local="130136915437384746" remote="130136955000000000" />
+<file name="views_handler_filter_node_type.inc" server="crdp.entre-soi.info" local="130136915437417375" remote="130136955000000000" />
+<file name="views_handler_filter_node_uid_revision.inc" server="crdp.entre-soi.info" local="130136915437447409" remote="130136955000000000" />
+<file name="views_plugin_argument_default_node.inc" server="crdp.entre-soi.info" local="130136915437473909" remote="130136955000000000" />
+<file name="views_plugin_argument_validate_node.inc" server="crdp.entre-soi.info" local="130136915437503943" remote="130136955000000000" />
+<file name="views_plugin_row_node_rss.inc" server="crdp.entre-soi.info" local="130136915437543970" remote="130136955000000000" />
+<file name="views_plugin_row_node_view.inc" server="crdp.entre-soi.info" local="130136915437583997" remote="130136955000000000" />
+</dwsync>

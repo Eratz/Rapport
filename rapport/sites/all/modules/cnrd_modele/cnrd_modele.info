@@ -1,0 +1,5 @@
+name = CNRD :: MODELE ::
+description = Affichage de :: MODELE :: CNRD
+package = CNRD
+core = 7.x
+files[] = cnrd_modele.module

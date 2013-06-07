@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_comment_user_uid.inc" server="crdp.entre-soi.info" local="130136915435038744" remote="130136954400000000" />
+<file name="views_handler_field_comment.inc" server="crdp.entre-soi.info" local="130136915435068795" remote="130136954400000000" />
+<file name="views_handler_field_comment_depth.inc" server="crdp.entre-soi.info" local="130136915435108740" remote="130136954400000000" />
+<file name="views_handler_field_comment_link.inc" server="crdp.entre-soi.info" local="130136915435128753" remote="130136954400000000" />
+<file name="views_handler_field_comment_link_approve.inc" server="crdp.entre-soi.info" local="130136915435159026" remote="130136954400000000" />
+<file name="views_handler_field_comment_link_delete.inc" server="crdp.entre-soi.info" local="130136915435189085" remote="130136954400000000" />
+<file name="views_handler_field_comment_link_edit.inc" server="crdp.entre-soi.info" local="130136915435219107" remote="130136954400000000" />
+<file name="views_handler_field_comment_link_reply.inc" server="crdp.entre-soi.info" local="130136915435249129" remote="130136954400000000" />
+<file name="views_handler_field_comment_node_link.inc" server="crdp.entre-soi.info" local="130136915435279143" remote="130136954400000000" />
+<file name="views_handler_field_comment_username.inc" server="crdp.entre-soi.info" local="130136915435309153" remote="130136954400000000" />
+<file name="views_handler_field_last_comment_timestamp.inc" server="crdp.entre-soi.info" local="130136915435339183" remote="130136954400000000" />
+<file name="views_handler_field_ncs_last_comment_name.inc" server="crdp.entre-soi.info" local="130136915435369210" remote="130136954400000000" />
+<file name="views_handler_field_ncs_last_updated.inc" server="crdp.entre-soi.info" local="130136915435399224" remote="130136954400000000" />
+<file name="views_handler_field_node_comment.inc" server="crdp.entre-soi.info" local="130136915435429274" remote="130136954400000000" />
+<file name="views_handler_field_node_new_comments.inc" server="crdp.entre-soi.info" local="130136915435459292" remote="130136954400000000" />
+<file name="views_handler_filter_comment_user_uid.inc" server="crdp.entre-soi.info" local="130136915435499278" remote="130136954400000000" />
+<file name="views_handler_filter_ncs_last_updated.inc" server="crdp.entre-soi.info" local="130136915435519308" remote="130136954400000000" />
+<file name="views_handler_filter_node_comment.inc" server="crdp.entre-soi.info" local="130136915435552499" remote="130136954400000000" />
+<file name="views_handler_sort_comment_thread.inc" server="crdp.entre-soi.info" local="130136915435582534" remote="130136954400000000" />
+<file name="views_handler_sort_ncs_last_comment_name.inc" server="crdp.entre-soi.info" local="130136915435602564" remote="130136954400000000" />
+<file name="views_handler_sort_ncs_last_updated.inc" server="crdp.entre-soi.info" local="130136915435632569" remote="130136954400000000" />
+<file name="views_plugin_row_comment_rss.inc" server="crdp.entre-soi.info" local="130136915435666245" remote="130136954400000000" />
+<file name="views_plugin_row_comment_view.inc" server="crdp.entre-soi.info" local="130136915435706301" remote="130136954400000000" />
+</dwsync>

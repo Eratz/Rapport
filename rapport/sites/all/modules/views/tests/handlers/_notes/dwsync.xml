@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_area_text.test" server="crdp.entre-soi.info" local="130136915444253862" remote="130136957400000000" />
+<file name="views_handler_argument_null.test" server="crdp.entre-soi.info" local="130136915444283847" remote="130136957400000000" />
+<file name="views_handler_argument_string.test" server="crdp.entre-soi.info" local="130136915444323882" remote="130136957400000000" />
+<file name="views_handler_field.test" server="crdp.entre-soi.info" local="130136915444353921" remote="130136957400000000" />
+<file name="views_handler_field_boolean.test" server="crdp.entre-soi.info" local="130136915444403927" remote="130136957400000000" />
+<file name="views_handler_field_counter.test" server="crdp.entre-soi.info" local="130136915446199838" remote="130136957400000000" />
+<file name="views_handler_field_custom.test" server="crdp.entre-soi.info" local="130136915446279891" remote="130136957400000000" />
+<file name="views_handler_field_date.test" server="crdp.entre-soi.info" local="130136915446349911" remote="130136957400000000" />
+<file name="views_handler_field_file_size.test" server="crdp.entre-soi.info" local="130136915446440002" remote="130136957400000000" />
+<file name="views_handler_field_math.test" server="crdp.entre-soi.info" local="130136915448151269" remote="130136957400000000" />
+<file name="views_handler_field_url.test" server="crdp.entre-soi.info" local="130136915448241360" remote="130136957400000000" />
+<file name="views_handler_field_xss.test" server="crdp.entre-soi.info" local="130136915448341452" remote="130136957400000000" />
+<file name="views_handler_filter_combine.test" server="crdp.entre-soi.info" local="130136915448391483" remote="130136957400000000" />
+<file name="views_handler_filter_date.test" server="crdp.entre-soi.info" local="130136915448468376" remote="130136957400000000" />
+<file name="views_handler_filter_equality.test" server="crdp.entre-soi.info" local="130136915448568488" remote="130136957400000000" />
+<file name="views_handler_filter_in_operator.test" server="crdp.entre-soi.info" local="130136915448668530" remote="130136957400000000" />
+<file name="views_handler_filter_numeric.test" server="crdp.entre-soi.info" local="130136915448758638" remote="130136957400000000" />
+<file name="views_handler_filter_string.test" server="crdp.entre-soi.info" local="130136915448873328" remote="130136957400000000" />
+<file name="views_handler_sort.test" server="crdp.entre-soi.info" local="130136915448993417" remote="130136957400000000" />
+<file name="views_handler_sort_date.test" server="crdp.entre-soi.info" local="130136915449083430" remote="130136957400000000" />
+<file name="views_handler_sort_random.test" server="crdp.entre-soi.info" local="130136915449173533" remote="130136957400000000" />
+</dwsync>

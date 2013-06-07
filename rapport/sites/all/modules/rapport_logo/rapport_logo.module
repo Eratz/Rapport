@@ -1,0 +1,93 @@
+<?php
+
+/**
+* Block Info.
+*/
+
+function rapport_logo_block_info(){
+	
+	$blocks = array();
+
+	$blocks['rapport_logo'] = array(
+		'info' => t(':: LOGO :: bloc à afficher'),
+		'cache' => DRUPAL_NO_CACHE,
+	 );
+
+	 return $blocks;
+}
+
+/**
+* Block view.
+*/
+function rapport_logo_block_view( $block_name = ''){
+
+	// si l'url est /arg_0/.../arg_i
+	// arg( i ) == arg_i 
+
+	switch ( $block_name ) {
+		case 'rapport_logo':
+			//if(  $condition ):
+				$ooops = _rapport_logo_datas();
+				$theme_args = array('ooops' => $ooops );
+				$content = theme( 'rapport_logo', $theme_args );
+
+				$block = array(
+
+					'subject' => t('Bloc LOGO'),
+					'content' => $content,
+				);
+
+				return $block;
+			//endif;
+			break;
+
+		
+		default:
+			# code...
+			break;
+	}
+}
+
+
+/**
+* Données du modele.
+*/
+function _rapport_logo_datas(){
+	
+	$query = new EntityFieldQuery();
+	
+	$query->entityCondition('entity_type', 'node')
+  		->entityCondition('bundle', 'article')
+  		->propertyCondition('status', 1);
+  		//->fieldCondition('field', 'value', $contexte);
+
+	$result = $query->execute();
+
+	$anids = array_keys( $result['node'] ); // identifiants des axes
+	$nodes = node_load_multiple( $anids );  // chargement ....
+		
+	return	$nodes;
+
+}
+
+
+function rapport_logo_theme($existing, $type, $theme, $path)
+{
+    $array= array(
+	    'rapport_logo' => array(
+        	'variables' => array('ooops' => NULL),
+        	'template' => 'rapport_logo',
+      	),
+
+	    // autres modeles pour d'autre blocs
+	 );
+  
+	return $array; // un tableau vide génère une erreur fatale
+}
+
+
+
+
+
+
+?>

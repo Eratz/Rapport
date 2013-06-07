@@ -1,0 +1,93 @@
+<?php
+
+/**
+* Block Info.
+*/
+
+function rapport_essai_block_info(){
+	
+	$blocks = array();
+
+	$blocks['bloc_modele'] = array(
+		'info' => t(':: MODELE :: bloc à afficher'),
+		'cache' => DRUPAL_NO_CACHE,
+	 );
+
+	 return $blocks;
+}
+
+/**
+* Block view.
+*/
+function rapport_essai_block_view( $block_name = ''){
+
+	// si l'url est /arg_0/.../arg_i
+	// arg( i ) == arg_i 
+
+	switch ( $block_name ) {
+		case 'bloc_modele':
+			//if(  $condition ):
+				$ooops = _rapport_essai_datas();
+				$theme_args = array('ooops' => $ooops );
+				$content = theme( 'rapport_essai', $theme_args );
+
+				$block = array(
+
+					'subject' => t('Bloc MODELE'),
+					'content' => $content,
+				);
+
+				return $block;
+			//endif;
+			break;
+
+		
+		default:
+			# code...
+			break;
+	}
+}
+
+
+/**
+* Données du modele.
+*/
+function _rapport_essai_datas(){
+	
+	$query = new EntityFieldQuery();
+	
+	$query->entityCondition('entity_type', 'node')
+  		->entityCondition('bundle', 'article')
+  		->propertyCondition('status', 1);
+  		//->fieldCondition('field', 'value', $contexte);
+
+	$result = $query->execute();
+
+	$anids = array_keys( $result['node'] ); // identifiants des axes
+	$nodes = node_load_multiple( $anids );  // chargement ....
+		
+	return	$nodes;
+
+}
+
+
+function rapport_essai_theme($existing, $type, $theme, $path)
+{
+    $array= array(
+	    'rapport_essai' => array(
+        	'variables' => array('ooops' => NULL),
+        	'template' => 'rapport_essai',
+      	),
+
+	    // autres modeles pour d'autre blocs
+	 );
+  
+	return $array; // un tableau vide génère une erreur fatale
+}
+
+
+
+
+
+
+?>

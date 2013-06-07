@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_users_roles_rid.inc" server="crdp.entre-soi.info" local="130136915440277887" remote="130136956200000000" />
+<file name="views_handler_argument_user_uid.inc" server="crdp.entre-soi.info" local="130136915440307905" remote="130136956200000000" />
+<file name="views_handler_field_user.inc" server="crdp.entre-soi.info" local="130136915440337923" remote="130136956200000000" />
+<file name="views_handler_field_user_language.inc" server="crdp.entre-soi.info" local="130136915440367957" remote="130136956800000000" />
+<file name="views_handler_field_user_link.inc" server="crdp.entre-soi.info" local="130136915440408358" remote="130136956800000000" />
+<file name="views_handler_field_user_link_cancel.inc" server="crdp.entre-soi.info" local="130136915440438405" remote="130136956800000000" />
+<file name="views_handler_field_user_link_edit.inc" server="crdp.entre-soi.info" local="130136915440469864" remote="130136956800000000" />
+<file name="views_handler_field_user_mail.inc" server="crdp.entre-soi.info" local="130136915440499906" remote="130136956800000000" />
+<file name="views_handler_field_user_name.inc" server="crdp.entre-soi.info" local="130136915440519912" remote="130136956800000000" />
+<file name="views_handler_field_user_permissions.inc" server="crdp.entre-soi.info" local="130136915440559963" remote="130136956800000000" />
+<file name="views_handler_field_user_picture.inc" server="crdp.entre-soi.info" local="130136915440589969" remote="130136956800000000" />
+<file name="views_handler_field_user_roles.inc" server="crdp.entre-soi.info" local="130136915440630008" remote="130136956800000000" />
+<file name="views_handler_filter_user_current.inc" server="crdp.entre-soi.info" local="130136915440670010" remote="130136956800000000" />
+<file name="views_handler_filter_user_name.inc" server="crdp.entre-soi.info" local="130136915440689958" remote="130136956800000000" />
+<file name="views_handler_filter_user_permissions.inc" server="crdp.entre-soi.info" local="130136915440739562" remote="130136956800000000" />
+<file name="views_handler_filter_user_roles.inc" server="crdp.entre-soi.info" local="130136915440769597" remote="130136956800000000" />
+<file name="views_plugin_argument_default_current_user.inc" server="crdp.entre-soi.info" local="130136915440799615" remote="130136956800000000" />
+<file name="views_plugin_argument_default_user.inc" server="crdp.entre-soi.info" local="130136915440819640" remote="130136956800000000" />
+<file name="views_plugin_argument_validate_user.inc" server="crdp.entre-soi.info" local="130136915440849658" remote="130136956800000000" />
+<file name="views_plugin_row_user_view.inc" server="crdp.entre-soi.info" local="130136915440889693" remote="130136956800000000" />
+</dwsync>

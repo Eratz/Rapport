@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_taxonomy.inc" server="crdp.entre-soi.info" local="130136915439123301" remote="130136955600000000" />
+<file name="views_handler_argument_term_node_tid.inc" server="crdp.entre-soi.info" local="130136915439144205" remote="130136955600000000" />
+<file name="views_handler_argument_term_node_tid_depth.inc" server="crdp.entre-soi.info" local="130136915439184236" remote="130136955600000000" />
+<file name="views_handler_argument_term_node_tid_depth_modifier.inc" server="crdp.entre-soi.info" local="130136915439234255" remote="130136955600000000" />
+<file name="views_handler_argument_vocabulary_machine_name.inc" server="crdp.entre-soi.info" local="130136915439264277" remote="130136955600000000" />
+<file name="views_handler_argument_vocabulary_vid.inc" server="crdp.entre-soi.info" local="130136915439294287" remote="130136955600000000" />
+<file name="views_handler_field_taxonomy.inc" server="crdp.entre-soi.info" local="130136915439321883" remote="130136955600000000" />
+<file name="views_handler_field_term_link_edit.inc" server="crdp.entre-soi.info" local="130136915439361901" remote="130136955600000000" />
+<file name="views_handler_field_term_node_tid.inc" server="crdp.entre-soi.info" local="130136915439391911" remote="130136955600000000" />
+<file name="views_handler_filter_term_node_tid.inc" server="crdp.entre-soi.info" local="130136915439431950" remote="130136955600000000" />
+<file name="views_handler_filter_term_node_tid_depth.inc" server="crdp.entre-soi.info" local="130136915439482068" remote="130136955600000000" />
+<file name="views_handler_filter_vocabulary_machine_name.inc" server="crdp.entre-soi.info" local="130136915439512004" remote="130136955600000000" />
+<file name="views_handler_filter_vocabulary_vid.inc" server="crdp.entre-soi.info" local="130136915439542014" remote="130136955600000000" />
+<file name="views_handler_relationship_node_term_data.inc" server="crdp.entre-soi.info" local="130136915439572044" remote="130136955600000000" />
+<file name="views_plugin_argument_default_taxonomy_tid.inc" server="crdp.entre-soi.info" local="130136915439602066" remote="130136955600000000" />
+<file name="views_plugin_argument_validate_taxonomy_term.inc" server="crdp.entre-soi.info" local="130136915439652098" remote="130136955600000000" />
+</dwsync>

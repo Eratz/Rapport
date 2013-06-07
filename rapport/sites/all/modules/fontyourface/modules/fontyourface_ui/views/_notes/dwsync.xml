@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="fontyourface_ui.views_default.inc" server="crdp.entre-soi.info" local="130136914307535238" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_enabled_yes_no.inc" server="crdp.entre-soi.info" local="130136914307585266" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_enable_disable.inc" server="crdp.entre-soi.info" local="130136914307666128" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_font.inc" server="crdp.entre-soi.info" local="130136914307696204" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_foundry.inc" server="crdp.entre-soi.info" local="130136914307736214" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_license.inc" server="crdp.entre-soi.info" local="130136914307766252" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_preview.inc" server="crdp.entre-soi.info" local="130136914307806263" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_provider.inc" server="crdp.entre-soi.info" local="130136914307836289" remote="130136952000000000" />
+<file name="views_handler_field_fontyourface_tag_font_tid.inc" server="crdp.entre-soi.info" local="130136914307856298" remote="130136952000000000" />
+<file name="views_handler_filter_fontyourface_foundry.inc" server="crdp.entre-soi.info" local="130136914307900484" remote="130136952000000000" />
+<file name="views_handler_filter_fontyourface_provider.inc" server="crdp.entre-soi.info" local="130136914307931968" remote="130136952000000000" />
+<file name="views_handler_filter_tag_font_tid.inc" server="crdp.entre-soi.info" local="130136914307962014" remote="130136952000000000" />
+<file name="views_handler_relationship_fontyourface_tag.inc" server="crdp.entre-soi.info" local="130136914308006508" remote="130136952000000000" />
+</dwsync>

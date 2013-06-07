@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="compare_users.inc" server="crdp.entre-soi.info" local="130136081256352608" remote="130136949000000000" />
+<file name="context_exists.inc" server="crdp.entre-soi.info" local="130136081256382614" remote="130136949000000000" />
+<file name="entity_bundle.inc" server="crdp.entre-soi.info" local="130136081256422636" remote="130136949000000000" />
+<file name="entity_field_value.inc" server="crdp.entre-soi.info" local="130136081256462663" remote="130136949000000000" />
+<file name="front.inc" server="crdp.entre-soi.info" local="130136081256502682" remote="130136949000000000" />
+<file name="node.inc" server="crdp.entre-soi.info" local="130136081256532712" remote="130136949000000000" />
+<file name="node_access.inc" server="crdp.entre-soi.info" local="130136081256552713" remote="130136949000000000" />
+<file name="node_language.inc" server="crdp.entre-soi.info" local="130136081256592740" remote="130136949000000000" />
+<file name="node_status.inc" server="crdp.entre-soi.info" local="130136081256622775" remote="130136949000000000" />
+<file name="node_type.inc" server="crdp.entre-soi.info" local="130136081256652797" remote="130136949000000000" />
+<file name="path_visibility.inc" server="crdp.entre-soi.info" local="130136081256692819" remote="130136949000000000" />
+<file name="perm.inc" server="crdp.entre-soi.info" local="130136081256722846" remote="130136949000000000" />
+<file name="php.inc" server="crdp.entre-soi.info" local="130136081256762860" remote="130136949000000000" />
+<file name="role.inc" server="crdp.entre-soi.info" local="130136081256792882" remote="130136949000000000" />
+<file name="site_language.inc" server="crdp.entre-soi.info" local="130136081256832901" remote="130136949000000000" />
+<file name="string_equal.inc" server="crdp.entre-soi.info" local="130136081256872940" remote="130136949000000000" />
+<file name="string_length.inc" server="crdp.entre-soi.info" local="130136081256902962" remote="130136949000000000" />
+<file name="term.inc" server="crdp.entre-soi.info" local="130136081256933001" remote="130136949000000000" />
+<file name="term_has_parent.inc" server="crdp.entre-soi.info" local="130136081256973011" remote="130136949000000000" />
+<file name="term_parent.inc" server="crdp.entre-soi.info" local="130136081257013046" remote="130136949000000000" />
+<file name="term_vocabulary.inc" server="crdp.entre-soi.info" local="130136081257058213" remote="130136949000000000" />
+<file name="theme.inc" server="crdp.entre-soi.info" local="130136081257088251" remote="130136949000000000" />
+</dwsync>

@@ -1,0 +1,93 @@
+<?php
+
+/**
+* Block Info.
+*/
+
+function cnrd_modele_block_info(){
+	
+	$blocks = array();
+
+	$blocks['bloc_modele'] = array(
+		'info' => t(':: MODELE :: bloc à afficher'),
+		'cache' => DRUPAL_NO_CACHE,
+	 );
+
+	 return $blocks;
+}
+
+/**
+* Block view.
+*/
+function cnrd_modele_block_view( $block_name = ''){
+
+	// si l'url est /arg_0/.../arg_i
+	// arg( i ) == arg_i 
+
+	switch ( $block_name ) {
+		case 'bloc_modele':
+			//if(  $condition ):
+				$ooops = _cnrd_modele_datas();
+				$theme_args = array('ooops' => $ooops );
+				$content = theme( 'cnrd_modele', $theme_args );
+
+				$block = array(
+
+					'subject' => t('Bloc MODELE'),
+					'content' => $content,
+				);
+
+				return $block;
+			//endif;
+			break;
+
+		
+		default:
+			# code...
+			break;
+	}
+}
+
+
+/**
+* Données du modele.
+*/
+function _cnrd_modele_datas(){
+	
+	$query = new EntityFieldQuery();
+	
+	$query->entityCondition('entity_type', 'node')
+  		->entityCondition('bundle', 'article')
+  		->propertyCondition('status', 1);
+  		//->fieldCondition('field', 'value', $contexte);
+
+	$result = $query->execute();
+
+	$anids = array_keys( $result['node'] ); // identifiants des axes
+	$nodes = node_load_multiple( $anids );  // chargement ....
+		
+	return	$nodes;
+
+}
+
+
+function cnrd_modele_theme($existing, $type, $theme, $path)
+{
+    $array= array(
+	    'cnrd_modele' => array(
+        	'variables' => array('ooops' => NULL),
+        	'template' => 'cnrd_modele',
+      	),
+
+	    // autres modeles pour d'autre blocs
+	 );
+  
+	return $array; // un tableau vide génère une erreur fatale
+}
+
+
+
+
+
+
+?>

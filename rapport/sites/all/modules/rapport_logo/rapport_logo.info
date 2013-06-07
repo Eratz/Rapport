@@ -1,0 +1,5 @@
+name = RAPPORT :: LOGO ::
+description = Affichage de :: LOGO :: RAPPORT
+package = RAPPORT
+core = 7.x
+files[] = rapport_logo.module

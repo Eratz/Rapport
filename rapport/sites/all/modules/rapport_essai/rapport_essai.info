@@ -1,0 +1,5 @@
+name = RAPPORT :: MODELE ::
+description = Affichage de :: MODELE :: RAPPORT
+package = RAPPORT
+core = 7.x
+files[] = rapport_essai.module

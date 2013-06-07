@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="action-links.theme.inc" server="crdp.entre-soi.info" local="130136081252474274" remote="130136948400000000" />
+<file name="ajax.inc" server="crdp.entre-soi.info" local="130136081252498820" remote="130136948400000000" />
+<file name="cache.inc" server="crdp.entre-soi.info" local="130136081252538838" remote="130136948400000000" />
+<file name="cache.plugin-type.inc" server="crdp.entre-soi.info" local="130136081252578922" remote="130136948400000000" />
+<file name="cleanstring.inc" server="crdp.entre-soi.info" local="130136081252608883" remote="130136948400000000" />
+<file name="collapsible.theme.inc" server="crdp.entre-soi.info" local="130136081252668927" remote="130136948400000000" />
+<file name="content.inc" server="crdp.entre-soi.info" local="130136081252698954" remote="130136948400000000" />
+<file name="content.menu.inc" server="crdp.entre-soi.info" local="130136081252748985" remote="130136948400000000" />
+<file name="content.plugin-type.inc" server="crdp.entre-soi.info" local="130136081252789004" remote="130136948400000000" />
+<file name="content.theme.inc" server="crdp.entre-soi.info" local="130136081252809025" remote="130136948400000000" />
+<file name="context-access-admin.inc" server="crdp.entre-soi.info" local="130136081252839039" remote="130136948400000000" />
+<file name="context-admin.inc" server="crdp.entre-soi.info" local="130136081252879074" remote="130136948400000000" />
+<file name="context-task-handler.inc" server="crdp.entre-soi.info" local="130136081252929110" remote="130136948400000000" />
+<file name="context.inc" server="crdp.entre-soi.info" local="130136081252989162" remote="130136948400000000" />
+<file name="context.menu.inc" server="crdp.entre-soi.info" local="130136081253039181" remote="130136948400000000" />
+<file name="context.plugin-type.inc" server="crdp.entre-soi.info" local="130136081253069199" remote="130136948400000000" />
+<file name="context.theme.inc" server="crdp.entre-soi.info" local="130136081253099209" remote="130136948400000000" />
+<file name="css.inc" server="crdp.entre-soi.info" local="130136081253139261" remote="130136948400000000" />
+<file name="dependent.inc" server="crdp.entre-soi.info" local="130136081253185047" remote="130136948400000000" />
+<file name="dropbutton.theme.inc" server="crdp.entre-soi.info" local="130136081253235099" remote="130136948400000000" />
+<file name="dropdown.theme.inc" server="crdp.entre-soi.info" local="130136081253265117" remote="130136948400000000" />
+<file name="export-ui.inc" server="crdp.entre-soi.info" local="130136081253305124" remote="130136948400000000" />
+<file name="export-ui.menu.inc" server="crdp.entre-soi.info" local="130136081253355155" remote="130136948400000000" />
+<file name="export-ui.plugin-type.inc" server="crdp.entre-soi.info" local="130136081253375172" remote="130136948400000000" />
+<file name="export.inc" server="crdp.entre-soi.info" local="130136081253405191" remote="130136948400000000" />
+<file name="fields.inc" server="crdp.entre-soi.info" local="130136081253460813" remote="130136948400000000" />
+<file name="jump-menu.inc" server="crdp.entre-soi.info" local="130136081253500853" remote="130136948400000000" />
+<file name="language.inc" server="crdp.entre-soi.info" local="130136081253536396" remote="130136948400000000" />
+<file name="math-expr.inc" server="crdp.entre-soi.info" local="130136081253566414" remote="130136948400000000" />
+<file name="menu.inc" server="crdp.entre-soi.info" local="130136081253616446" remote="130136948400000000" />
+<file name="modal.inc" server="crdp.entre-soi.info" local="130136081253648348" remote="130136948400000000" />
+<file name="object-cache.cron.inc" server="crdp.entre-soi.info" local="130136081253695526" remote="130136948400000000" />
+<file name="object-cache.inc" server="crdp.entre-soi.info" local="130136081253715556" remote="130136948400000000" />
+<file name="page-wizard.inc" server="crdp.entre-soi.info" local="130136081253765592" remote="130136948400000000" />
+<file name="page-wizard.menu.inc" server="crdp.entre-soi.info" local="130136081253805647" remote="130136948400000000" />
+<file name="plugins-admin.inc" server="crdp.entre-soi.info" local="130136081253835653" remote="130136948400000000" />
+<file name="plugins.inc" server="crdp.entre-soi.info" local="130136081253875672" remote="130136948400000000" />
+<file name="registry.inc" server="crdp.entre-soi.info" local="130136081253925695" remote="130136949000000000" />
+<file name="stylizer.inc" server="crdp.entre-soi.info" local="130136081253955717" remote="130136949000000000" />
+<file name="stylizer.theme.inc" server="crdp.entre-soi.info" local="130136081254015757" remote="130136949000000000" />
+<file name="utility.inc" server="crdp.entre-soi.info" local="130136081254045788" remote="130136949000000000" />
+<file name="views.inc" server="crdp.entre-soi.info" local="130136081254065801" remote="130136949000000000" />
+<file name="wizard.inc" server="crdp.entre-soi.info" local="130136081254095811" remote="130136949000000000" />
+<file name="wizard.theme.inc" server="crdp.entre-soi.info" local="130136081254145871" remote="130136949000000000" />
+</dwsync>

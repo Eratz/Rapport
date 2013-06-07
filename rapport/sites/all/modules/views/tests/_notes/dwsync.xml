@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_access.test" server="crdp.entre-soi.info" local="130136915450238533" remote="130136958000000000" />
+<file name="views_analyze.test" server="crdp.entre-soi.info" local="130136915450288470" remote="130136958000000000" />
+<file name="views_argument_default.test" server="crdp.entre-soi.info" local="130136915450318488" remote="130136958000000000" />
+<file name="views_argument_validator.test" server="crdp.entre-soi.info" local="130136915450348527" remote="130136958000000000" />
+<file name="views_basic.test" server="crdp.entre-soi.info" local="130136915450388541" remote="130136958000000000" />
+<file name="views_cache.test" server="crdp.entre-soi.info" local="130136915450438581" remote="130136958000000000" />
+<file name="views_cache.test.css" server="crdp.entre-soi.info" local="130136915450468603" remote="130136958000000000" />
+<file name="views_cache.test.js" server="crdp.entre-soi.info" local="130136915450499229" remote="130136958000000000" />
+<file name="views_exposed_form.test" server="crdp.entre-soi.info" local="130136915450518639" remote="130136958000000000" />
+<file name="views_glossary.test" server="crdp.entre-soi.info" local="130136915450563350" remote="130136958000000000" />
+<file name="views_groupby.test" server="crdp.entre-soi.info" local="130136915450593384" remote="130136958000000000" />
+<file name="views_handlers.test" server="crdp.entre-soi.info" local="130136915450633423" remote="130136958000000000" />
+<file name="views_module.test" server="crdp.entre-soi.info" local="130136915450678200" remote="130136958000000000" />
+<file name="views_pager.test" server="crdp.entre-soi.info" local="130136915450718243" remote="130136958000000000" />
+<file name="views_plugin_localization_test.inc" server="crdp.entre-soi.info" local="130136915450758274" remote="130136958000000000" />
+<file name="views_query.test" server="crdp.entre-soi.info" local="130136915450788296" remote="130136958000000000" />
+<file name="views_test.info" server="crdp.entre-soi.info" local="130136915450838324" remote="130136958000000000" />
+<file name="views_test.install" server="crdp.entre-soi.info" local="130136915450858337" remote="130136958000000000" />
+<file name="views_test.module" server="crdp.entre-soi.info" local="130136915450878355" remote="130136958000000000" />
+<file name="views_test.views_default.inc" server="crdp.entre-soi.info" local="130136915450908377" remote="130136958000000000" />
+<file name="views_translatable.test" server="crdp.entre-soi.info" local="130136915450958404" remote="130136958000000000" />
+<file name="views_ui.test" server="crdp.entre-soi.info" local="130136915450998435" remote="130136958000000000" />
+<file name="views_upgrade.test" server="crdp.entre-soi.info" local="130136915451048475" remote="130136958000000000" />
+<file name="views_view.test" server="crdp.entre-soi.info" local="130136915451088497" remote="130136958000000000" />
+</dwsync>

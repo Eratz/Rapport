@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="aggregator.views.inc" server="crdp.entre-soi.info" local="130136915434857749" remote="130136954400000000" />
+<file name="book.views.inc" server="crdp.entre-soi.info" local="130136915434988696" remote="130136954400000000" />
+<file name="comment.views.inc" server="crdp.entre-soi.info" local="130136915435736307" remote="130136954400000000" />
+<file name="comment.views_default.inc" server="crdp.entre-soi.info" local="130136915435786346" remote="130136954400000000" />
+<file name="contact.views.inc" server="crdp.entre-soi.info" local="130136915435876421" remote="130136954400000000" />
+<file name="field.views.inc" server="crdp.entre-soi.info" local="130136915436106569" remote="130136954400000000" />
+<file name="file.views.inc" server="crdp.entre-soi.info" local="130136915436156588" remote="130136954400000000" />
+<file name="filter.views.inc" server="crdp.entre-soi.info" local="130136915436236638" remote="130136955000000000" />
+<file name="image.views.inc" server="crdp.entre-soi.info" local="130136915436256667" remote="130136955000000000" />
+<file name="locale.views.inc" server="crdp.entre-soi.info" local="130136915436593923" remote="130136955000000000" />
+<file name="node.views.inc" server="crdp.entre-soi.info" local="130136915437614044" remote="130136955000000000" />
+<file name="node.views_default.inc" server="crdp.entre-soi.info" local="130136915437664063" remote="130136955000000000" />
+<file name="node.views_template.inc" server="crdp.entre-soi.info" local="130136915437714082" remote="130136955000000000" />
+<file name="poll.views.inc" server="crdp.entre-soi.info" local="130136915437964494" remote="130136955000000000" />
+<file name="profile.views.inc" server="crdp.entre-soi.info" local="130136915438369565" remote="130136955000000000" />
+<file name="search.views.inc" server="crdp.entre-soi.info" local="130136915438598674" remote="130136955600000000" />
+<file name="search.views_default.inc" server="crdp.entre-soi.info" local="130136915438638693" remote="130136955600000000" />
+<file name="statistics.views.inc" server="crdp.entre-soi.info" local="130136915438728755" remote="130136955600000000" />
+<file name="statistics.views_default.inc" server="crdp.entre-soi.info" local="130136915438765789" remote="130136955600000000" />
+<file name="system.views.inc" server="crdp.entre-soi.info" local="130136915439053239" remote="130136955600000000" />
+<file name="taxonomy.views.inc" server="crdp.entre-soi.info" local="130136915439692124" remote="130136955600000000" />
+<file name="taxonomy.views_default.inc" server="crdp.entre-soi.info" local="130136915439732168" remote="130136955600000000" />
+<file name="tracker.views.inc" server="crdp.entre-soi.info" local="130136915439883182" remote="130136955600000000" />
+<file name="translation.views.inc" server="crdp.entre-soi.info" local="130136915440217834" remote="130136956200000000" />
+<file name="user.views.inc" server="crdp.entre-soi.info" local="130136915440929712" remote="130136956800000000" />
+<file name="views.views.inc" server="crdp.entre-soi.info" local="130136915440979748" remote="130136956800000000" />
+</dwsync>

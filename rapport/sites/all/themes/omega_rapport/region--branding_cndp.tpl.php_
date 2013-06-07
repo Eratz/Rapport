@@ -1,0 +1,6 @@
+<?php
+  global $user;
+  if ($user->id) :
+  echo "<div><a href='http://www.aphg.fr' target='_blank'><img src='../img/logo_CNDP.png' width='140' height='80' /></a></div>";
+  endif;
+?>
